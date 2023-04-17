@@ -1,0 +1,172 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Montserrat";
+    
+}
+
+#title{
+     background-color: #19A7CE;/*#263159; */
+    color:#fff;
+    /* position: relative; */  
+}
+.title-image{  
+    /* width:100%; */
+    transform: rotate(-25deg);
+    /* position: absolute; */
+    width:60%;
+    position: absolute;
+    left:40%;
+    top:39%; 
+}
+.download-button{
+  margin: 5% 3% 5% 0%; 
+}
+
+
+.container-fluid{
+    padding:3% 12% 5%;
+    
+}
+
+
+
+.navbar {
+     background-color: #19A7CE;/*#263159;#7B8FA1;#8B7E74; */
+    overflow: hidden;
+    padding-bottom:4.5rem;
+  }
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px; 
+}
+.nav-link{
+    font-size:1.2rem;
+    font-family: "Montserrat";
+    font-weight: lighter;
+}
+
+  
+  
+  /* Active/current link */
+  
+
+h1{
+    /* color: #495579;#3C4048; */
+    margin-top: 50px;
+    text-align: left;
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;     
+}
+
+h2{
+    /* color: #495579;#3C4048; */
+    font-size:3rem;
+    font-family: "Montserrat";
+    font-weight: bold;
+    line-height: 1.5;
+    
+}
+
+h3{
+    color: #3C4048;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+ .footer-link{
+   color:white; /* #3C4048; */
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: white;
+} 
+
+
+/*#F5EBE0;*/
+
+.bottom{
+    background-color: #19A7CE;/*#8B7E74;*/
+    padding-top: 30px;
+    padding: 50px 0 20px;
+    
+}
+
+p{
+    line-height: 2;
+}
+
+
+
+
+#carousel{
+    text-align: center;
+    position: relative;
+    background-color:#fff;
+    color: black;
+ }
+
+.carousel-item{
+    padding: 7% 15%;
+}
+.carousel-image{
+    width:60%;
+}
+
+
+
+
+
+
+.outro{
+    width: 30%;
+    margin: 100px auto;
+    
+}
+
+  .contact-me{
+    padding-top: 50px;
+    padding-bottom: 100px;
+  }
+
+  .copyright{
+    color: white;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    
+  }
+  .bestseller{
+    background-color: #F6F1F1;
+    padding:30px;
+  }
+
+  /* Coming Soon section */
+
+  #cards{
+    padding:100px;
+    background-color: #19A7CE;
+    color: #fff;
+  }
+  .card{
+    background-color:#19A7CE ;
+  }
+  .pricing-column{
+    padding:3% 2%;
+  }
+
+  .card-image{
+    width:70%;
+    margin:20%;
+    border-radius: 100%;
+
+}
+  
